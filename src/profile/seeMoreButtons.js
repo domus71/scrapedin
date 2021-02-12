@@ -13,6 +13,9 @@ const seeMoreButtons = [
     id: 'SHOW_MORE_CERTIFICATIONS',
     selector: '#certifications-section .pv-profile-section__see-more-inline'
   },{
+    id: 'SHOW_MORE_EDUCATION',
+    selector: '#education-section .pv-profile-section__see-more-inline'
+  },{
     id: 'SHOW_MORE_SKILLS',
     selector: '.pv-skills-section__additional-skills'
   },{
