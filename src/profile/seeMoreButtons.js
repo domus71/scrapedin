@@ -10,6 +10,9 @@ const seeMoreButtons = [
     id: 'SEE_MORE_EXPERIENCES',
     selector: '#experience-section .inline-show-more-text__button'
   },{
+    id: 'SHOW_MORE_EDUCATION',
+    selector: '#education-section .pv-profile-section__see-more-inline'
+  },{
     id: 'SHOW_MORE_CERTIFICATIONS',
     selector: '#certifications-section .pv-profile-section__see-more-inline'
   },{
